@@ -1,6 +1,6 @@
 # Machine Learning Pet Projects
 
-This repository is dedicated to exploring the field of Machine Learning. This page will serve as a collection of my pet projects (playing around :)), showcasing the concepts I've learned along the way.
+My repository is dedicated to exploring the field of Machine Learning. My page will serve as a collection of my pet projects (playing around :)), showcasing the concepts I've learned along the way.
 
 One day there'll be a lot of projects, but for now...
 
