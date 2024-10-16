@@ -8,6 +8,6 @@ One day there'll be a lot of material, but for now...
 
 ### 1. **Implementing K-means Algorithm for Image Compression**
    - Basics of K-means Algorithm
-   - Demonstrates how to use the K-means clustering algorithm to compress images dy reducing the number of colors
+   - Demonstrates how to use the clustering method to compress images dy reducing the number of colors
 
 I plan to update this repository as I continue to learn and my skills develop!
